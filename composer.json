@@ -7,10 +7,10 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^9"
-    },
+    }, 
     "autoload": {
         "psr-4": {
-            "Ningzhou\\Newtime\\": "src/"
+            "app\\": "src/"
         }
     },
     "authors": [
